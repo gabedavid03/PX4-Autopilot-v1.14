@@ -77,9 +77,18 @@ px4_add_romfs_files(
 	4004_gz_standard_vtol
 	4005_gz_x500_vision
 	4006_gz_px4vision
+	4008_gz_advanced_plane
+	4009_gz_r1_rover
+	4010_gz_x500_mono_cam
+	4011_gz_lawnmower
+	4012_gz_rover_ackermann
+	4013_gz_x500_lidar
 
 	6011_gazebo-classic_typhoon_h480
 	6011_gazebo-classic_typhoon_h480.post
+	6969_gz_x500_euro
+
+	9503_gz_euro_drone
 
 	10015_gazebo-classic_iris
 	10016_none_iris

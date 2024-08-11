@@ -1,0 +1,10 @@
+#!/bin/sh
+#
+# @name Euro Drone
+#
+# @type Quadrotor
+#
+
+PX4_SIM_MODEL=${PX4_SIM_MODEL:=euro_drone}
+
+. ${R}etc/init.d-posix/airframes/4001_gz_x500
